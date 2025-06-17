@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   debugText: {fileID: 8772014013054329497}
-  objectToPlace: {fileID: 1196735232137416400, guid: 728d0a173483f46499d767e510098af0,
+  objectToPlace: {fileID: 5514254710354252494, guid: bd97d0393eae1e84ca6e505596d156b9,
     type: 3}
 --- !u!114 &314403848
 MonoBehaviour:
